@@ -1,0 +1,64 @@
+{
+	"menus": [
+		{
+			"id": "theater",
+			"name": "豆瓣影院",
+			"url": "/theater",
+			"icon": "icon-ios-film"
+		},
+		{
+			"id": "TS",
+			"name": "豆瓣图书",
+			"url": "/book",
+			"icon": "icon-ios-journal"
+		},
+		{
+			"id": "TP",
+			"name": "壁纸天堂",
+			"url": "/photograph",
+			"icon": "icon-ios-images"
+		},
+		{
+			"id": "TL",
+			"name": "时钟锁屏",
+			"url": "/time",
+			"icon": "icon-ios-timer"
+		},
+		{
+			"id": "CSS",
+			"name": "CSS布局",
+			"url": "/css-layout",
+			"icon": "icon-ios-tablet-landscape"
+		},
+		{
+			"id": "3D",
+			"name": "3D实验室",
+			"url": "/3D",
+			"icon": "icon-ios-cube"
+		},
+		{
+			"id": "TEST",
+			"name": "IDEA实验室",
+			"url": "/lab",
+			"icon": "icon-ios-flask"
+		},
+		{
+			"id": "TYPING",
+			"name": "沉洋打字机",
+			"url": "/typing",
+			"icon": "icon-ios-keypad"
+		},
+		{
+			"id": "TYPINGCH",
+			"name": "沉洋打字机（中文版）",
+			"url": "/typingChinese",
+			"icon": "icon-ios-barcode"
+		},
+		{
+			"id": "FILESYSTEM",
+			"name": "云文件管理系统",
+			"url": "/fileSystem",
+			"icon": "icon-ios-barcode"
+		}
+	]
+}
