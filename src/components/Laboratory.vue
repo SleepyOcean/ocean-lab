@@ -1,5 +1,5 @@
 <template>
-	<div class="full-width laboratory">
+	<div class="laboratory">
 		<div
 			class="l-item"
 			v-for="(item, index) in menus"

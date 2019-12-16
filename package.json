@@ -2,7 +2,7 @@
   "name": "ocean-lab",
   "version": "1.0.0",
   "description": "sleepy ocean in the lab",
-  "author": "EnderH",
+  "author": "sleepy ocean",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
@@ -13,7 +13,11 @@
   "dependencies": {
     "axios": "^0.19.0",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+	"three": "^0.108.0",
+	"three-css2drender": "^1.0.0",
+	"three-obj-mtl-loader": "^1.0.3",
+	"three-orbit-controls": "^82.1.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

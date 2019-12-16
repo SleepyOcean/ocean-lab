@@ -27,7 +27,7 @@
 		{
 			"id": "CSS",
 			"name": "CSS布局",
-			"url": "/css-layout",
+			"url": "/layout",
 			"icon": "icon-ios-tablet-landscape"
 		},
 		{
@@ -39,7 +39,7 @@
 		{
 			"id": "TEST",
 			"name": "IDEA实验室",
-			"url": "/lab",
+			"url": "/blank",
 			"icon": "icon-ios-flask"
 		},
 		{
@@ -52,12 +52,6 @@
 			"id": "TYPINGCH",
 			"name": "沉洋打字机（中文版）",
 			"url": "/typingChinese",
-			"icon": "icon-ios-barcode"
-		},
-		{
-			"id": "FILESYSTEM",
-			"name": "云文件管理系统",
-			"url": "/fileSystem",
 			"icon": "icon-ios-barcode"
 		}
 	]
